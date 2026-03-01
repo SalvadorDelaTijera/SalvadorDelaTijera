@@ -3,8 +3,6 @@
 ### Frontend enfocado en experiencia, detalle y código limpio. Aprendiendo, construyendo y mejorando todos los días.
 
 Tuxtla Gutiérrez, Chiapas, México  
-Abierto a prácticas profesionales, primer empleo en tecnología o proyectos freelance  
-
 ---
 
 ## Sobre mí
