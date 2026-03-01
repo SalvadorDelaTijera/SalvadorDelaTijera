@@ -74,8 +74,10 @@ Bases de datos:
 
 ## Contacto
 
-Correo electrónico  
-LinkedIn  
+correo: salvagerar@gmail.com
+LinkedIn: www.linkedin.com/in/salvadordelatijera
+
+
 
 ---
 
