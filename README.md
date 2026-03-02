@@ -82,20 +82,6 @@ Bases de datos:
 - Mejores prácticas de arquitectura frontend  
 - Organización y escalabilidad de proyectos  
 
----
-
-## Herramientas
-
-- Git y GitHub  
-- Vercel  
-- Figma  
-- Miro  
-- Adobe Illustrator  
-- Photoshop  
-- InDesign  
-
----
-
 ## Intereses
 
 - Web Apps  
@@ -104,13 +90,6 @@ Bases de datos:
 - Sistemas administrativos  
 - Diseño de interfaces  
 - Integración de inteligencia artificial  
-
----
-
-## Contacto
-
-correo: salvagerar@gmail.com
-LinkedIn: www.linkedin.com/in/salvadordelatijera
 
 
 
