@@ -5,11 +5,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-cano-4449a89b9/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MartinCanoARG)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:martincano91@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/SalvadorDelaTijera]))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](www.linkedin.com/in/salvadordelatijera)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:salvagerar@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=MartinCanoARG&color=6366F1&style=for-the-badge&label=VISITAS" />
+<img src="https://komarev.com/ghpvc/?username=SalvadorDelaTijera&color=6366F1&style=for-the-badge&label=VISITAS" />
 
 </div>
 
@@ -30,13 +30,38 @@ Creo en aprender haciendo. Equivocarme, ajustar y volver a intentar es parte de 
 
 ---
 
+###En qué me enfoco**
+
+✔ Diseñar interfaces intuitivas, limpias y orientadas al usuario  
+✔ Escribir código escalable, mantenible y fácil de entender  
+✔ Colaborar con el equipo y comunicar soluciones con claridad  
+✔ Mantenerme actualizado con las tendencias del ecosistema frontend  
+
+
 ## Stack Principal
 
 - JavaScript  
 - TypeScript  
 - React  
 - Next.js  
-- Tailwind CSS  
+- Tailwind CSS
+
+
+<div align="center">
+### ⚛️ Frontend Core
+
+<img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind,vite" />
+
+### 🗄️ Backend & DB
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,py,django" />
+
+### 🛠 Herramientas
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,linux,insomnia" />
+<br/>
+
+</div>
 
 ---
 
