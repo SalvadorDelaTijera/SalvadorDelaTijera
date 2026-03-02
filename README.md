@@ -5,8 +5,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/SalvadorDelaTijera])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](www.linkedin.com/in/salvadordelatijera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/SalvadorDelaTijera)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/salvadordelatijera)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:salvagerar@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=SalvadorDelaTijera&color=6366F1&style=for-the-badge&label=VISITAS" />
@@ -37,7 +37,6 @@ Creo en aprender haciendo. Equivocarme, ajustar y volver a intentar es parte de 
 ✔ Colaborar con el equipo y comunicar soluciones con claridad  
 ✔ Mantenerme actualizado con las tendencias del ecosistema frontend  
 
-
 ## Stack Principal
 
 - JavaScript  
@@ -45,7 +44,6 @@ Creo en aprender haciendo. Equivocarme, ajustar y volver a intentar es parte de 
 - React  
 - Next.js  
 - Tailwind CSS
-
 
 <div align="center">
 
@@ -57,22 +55,10 @@ Creo en aprender haciendo. Equivocarme, ajustar y volver a intentar es parte de 
 
 ### 🛠 Herramientas
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,linux,insomnia,photoshop,illustrator,endesign" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,linux,insomnia,photoshop,illustrator,indesign" />
 <br/>
 
 </div>
-
----
-
-## Conocimientos adicionales
-
-Backend:
-- Node.js  
-
-Bases de datos:
-- SQL  
-- PostgreSQL  
-- MongoDB  
 
 ---
 
@@ -89,10 +75,8 @@ Bases de datos:
 - E-commerce  
 - Sistemas administrativos  
 - Diseño de interfaces  
-- Integración de inteligencia artificial  
-
-
-
+- Integración de inteligencia artificial
+  
 ---
 
 Construyendo con intención, aprendiendo con constancia y mejorando todos los días.
