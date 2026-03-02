@@ -45,6 +45,7 @@ Creo en aprender haciendo. Equivocarme, ajustar y volver a intentar es parte de 
 - Next.js  
 - Tailwind CSS
 
+<h1 align="center">🛠️ Tech Stack</h1>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind,vite" />
