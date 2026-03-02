@@ -5,8 +5,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/SalvadorDelaTijera)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/salvadordelatijera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvadordelatijera)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SalvadorDelaTijera)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:salvagerar@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=SalvadorDelaTijera&color=6366F1&style=for-the-badge&label=VISITAS" />
