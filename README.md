@@ -6,8 +6,9 @@ Tuxtla Gutiérrez, Chiapas, México
 ---
 
 ## Sobre mí
+Estudié Producción en Medios de la Comunicación, especializándome en fotografía. Durante más de 15 años trabajé en medios: fui corresponsal gráfico para la agencia internacional EFE, editor gráfico y reportero en Diario de Chiapas. También trabajé como fotógrafo de catálogo y sesiones de modelo para la fábrica de zapatos Madreselva en Comitán, Chiapas.
 
-Estoy construyendo mi camino como desarrollador frontend, trabajando y aprendiendo al mismo tiempo. Me motiva crear productos web que no solo funcionen, sino que estén bien pensados desde el diseño hasta la estructura del código.
+Ahora estoy construyendo mi camino como desarrollador frontend, trabajando y aprendiendo al mismo tiempo. Me motiva crear productos web que no solo funcionen, sino que estén bien pensados desde el diseño hasta la estructura del código.
 
 Disfruto cuidar los detalles, entender cómo interactúan las personas con una interfaz y encontrar la forma más clara y ordenada de resolver un problema. Para mí, el frontend no es solo que algo se vea bien, sino que tenga sentido, fluya y esté bien construido por dentro.
 
