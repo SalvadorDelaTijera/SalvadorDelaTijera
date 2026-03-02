@@ -15,7 +15,7 @@
 
 ### Frontend enfocado en experiencia, detalle y código limpio. Aprendiendo, construyendo y mejorando todos los días.
 
-Tuxtla Gutiérrez, Chiapas, México  
+Chiapas, México  
 ---
 
 ## Sobre mí
