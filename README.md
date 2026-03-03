@@ -1,7 +1,7 @@
 # Salvador De la Tijera
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+Developer;En evolución constante" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+Developer" />
 
 <br/>
 
