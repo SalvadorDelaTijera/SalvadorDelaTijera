@@ -56,7 +56,7 @@ Creo en aprender haciendo. Equivocarme, ajustar y volver a intentar es parte de 
 
 ### 🛠 Herramientas
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,insomnia,cypress,photoshop,illustrator,adobeindesign" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,insomnia,cypress,photoshop,illustrator,indesign" />
 <br/>
 
 </div>
