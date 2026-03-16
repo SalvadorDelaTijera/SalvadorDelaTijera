@@ -52,7 +52,7 @@ Creo en aprender haciendo. Equivocarme, ajustar y volver a intentar es parte de 
 
 ### 🗄️ Backend & DB
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,py,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
 
 ### 🛠 Herramientas
 
